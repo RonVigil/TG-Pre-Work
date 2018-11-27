@@ -2,7 +2,7 @@
 
 ## When we hit https://www.techtonicgroup.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions.
 
-put your answer here
+My IP request info
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
