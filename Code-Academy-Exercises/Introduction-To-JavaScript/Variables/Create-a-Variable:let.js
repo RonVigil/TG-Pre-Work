@@ -1,5 +1,3 @@
 let changeMe = true;
-
-changeMe = false;
-
+changeMe = false;    
 console.log(changeMe);
