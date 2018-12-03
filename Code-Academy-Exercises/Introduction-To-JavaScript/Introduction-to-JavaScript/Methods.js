@@ -1,3 +1,4 @@
+
 // Use .toUpperCase() to log 'Codecademy' in all uppercase letters
 console.log('Codecademy'.toUpperCase());
 
