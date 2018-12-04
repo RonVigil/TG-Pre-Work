@@ -5,7 +5,6 @@ const plantNeedsWater = function(day) {
     return false;
   }
 };
-
 plantNeedsWater('Tuesday');
 
 console.log(plantNeedsWater('Tuesday'));
