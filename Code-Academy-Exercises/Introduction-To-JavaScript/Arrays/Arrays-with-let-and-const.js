@@ -11,5 +11,4 @@ condiments = ['Mayo'];
 utensils[3] = 'Spoon';
 
 console.log(utensils);
-
 // utensils = ['Spork'];
