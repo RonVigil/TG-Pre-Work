@@ -10,4 +10,5 @@ const logVisibleLightWaves = () => {
   console.log(lightWaves);
 };
 
+
 logVisibleLightWaves();
