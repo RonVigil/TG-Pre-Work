@@ -13,5 +13,4 @@ const removeElement = newArr => {
 }
 
 removeElement(concept);
-
 console.log(concept);
