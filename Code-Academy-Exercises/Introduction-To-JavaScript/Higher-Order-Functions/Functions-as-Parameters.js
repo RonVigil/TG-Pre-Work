@@ -5,7 +5,6 @@ const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
     }
   }
 };
-
 const addTwo = num => num + 2;
 
 const timeFuncRuntime = funcParameter => {
