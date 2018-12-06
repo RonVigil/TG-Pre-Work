@@ -1,5 +1,4 @@
 const rapperArray = ["Lil' Kim", "Jay-Z", "Notorious B.I.G.", "Tupac"];
-
 // Write you code below
 for (let i = 0; i < rapperArray.length; i++){
   console.log(rapperArray[i]);
