@@ -1,3 +1,4 @@
+
 // Write your code below
 let bobsFollowers = ['Joe', 'Marta', 'Sam', 'Erin'];
 let tinasFollowers = ['Sam', 'Marta', 'Elle'];
