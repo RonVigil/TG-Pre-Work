@@ -13,7 +13,6 @@ const squareNumbers = numbers.map(number => {
 console.log(squareNumbers);
 
 const things = ['desk', 'chair', 5, 'backpack', 3.14, 100];
-
 const onlyNumbers = things.filter(thing => {
   return typeof thing === 'number';
 });
