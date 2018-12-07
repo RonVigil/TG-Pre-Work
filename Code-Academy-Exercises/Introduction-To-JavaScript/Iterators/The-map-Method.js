@@ -5,6 +5,7 @@ const secretMessage = animals.map(animal => animal[0]);
 
 console.log(secretMessage.join(''));
 
+
 const bigNumbers = [100, 200, 300, 400, 500];
 
 // Create the smallNumbers array below
