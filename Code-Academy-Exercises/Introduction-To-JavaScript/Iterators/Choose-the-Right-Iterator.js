@@ -18,6 +18,7 @@ console.log(word)
 // Choose a method that will return a new array
 const smallerNums = nums.map(num => num - 5);
 
+
 // Choose a method that will return a boolean value
 nums.every(num => num < 0);
 // OR nums.some(num => num < 0);
