@@ -23,7 +23,6 @@ class Nurse extends HospitalEmployee {
    this._certifications = certifications;
  }
 }
-
 const nurseOlynyk = new Nurse('Olynyk', ['Trauma','Pediatrics']);
 
 nurseOlynyk.takeVacationDays(5);
