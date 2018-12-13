@@ -21,7 +21,6 @@ let spaceship = {
         }
     }
 };
-
 // Write your code below
 for (let crewMember in spaceship.crew) {
   console.log(`${spaceship.crew[crewMember].name}: ${spaceship.crew[crewMember].degree}`)
