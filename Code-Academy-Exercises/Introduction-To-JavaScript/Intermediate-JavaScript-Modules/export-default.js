@@ -34,5 +34,4 @@ export function meetsSpeedRangeRequirements(maxSpeed, minSpeed, requiredSpeedRan
     return false;
   }
 };
-
 export default meetsSpeedRangeRequirements;
