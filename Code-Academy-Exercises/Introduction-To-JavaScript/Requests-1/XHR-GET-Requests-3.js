@@ -24,6 +24,7 @@ const getSuggestions = () => {
   xhr.open('GET', endpoint);
   xhr.send();
 }
+
 // Clear previous results and display results to webpage
 const displaySuggestions = (event) => {
   event.preventDefault();

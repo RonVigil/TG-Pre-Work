@@ -24,6 +24,7 @@ const getSuggestions = () => {
     }
   }
 
+
   xhr.open('GET', endpoint);
   xhr.send();
 }
