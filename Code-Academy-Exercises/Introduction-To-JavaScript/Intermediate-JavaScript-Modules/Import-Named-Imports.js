@@ -23,5 +23,4 @@ function displaySpeedRangeStatus() {
    console.log(element.name + ' meets speed range requirements:' + meetsSpeedRangeRequirements(element.maxSpeed, element.minSpeed, flightRequirements.requiredSpeedRange));
   });
 }
-
 displaySpeedRangeStatus();
