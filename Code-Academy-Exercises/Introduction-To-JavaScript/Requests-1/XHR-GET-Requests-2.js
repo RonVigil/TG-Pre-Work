@@ -7,5 +7,6 @@ xhr.onreadystatechange = () => {
   }
 }
 
+
 xhr.open('GET', url);
 xhr.send();
