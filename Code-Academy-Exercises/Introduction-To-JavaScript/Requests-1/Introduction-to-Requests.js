@@ -16,7 +16,6 @@ const generateJson = () => {
   xhr.open('GET', 'https://jsonplaceholder.typicode.com/users');
   xhr.send();
 }
-
 const formatJson = (resJson) => {
   resJson = JSON.stringify(resJson);
   let counter = 0;
