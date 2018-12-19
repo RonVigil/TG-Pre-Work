@@ -26,7 +26,6 @@ const shortenUrl = () => {
   xhr.send(data);
 }
 
-
 // Clear page and call AJAX functions
 const displayShortUrl = (event) => {
   event.preventDefault();
